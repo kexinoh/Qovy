@@ -1,5 +1,4 @@
-![logo](![image](https://github.com/kexinoh/Qovy/assets/91727108/d338e4d2-e36c-4f47-ad89-a8e74c913b36))
-
+![logo](img/logo.png)
 **Qovy.js** 是 **Movy** 的改进版本
 
 改进计划包含:
