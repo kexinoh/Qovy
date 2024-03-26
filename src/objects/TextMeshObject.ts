@@ -37,7 +37,7 @@ async function preloadFont(fontName: string): Promise<Font> {
     } else if (fontName == 'arcade') {
       font = await fontLoader.loadAsync('fonts/Public-Pixel-Regular.json');
     } else {
-      throw `Invalid font name: ${fontName}`;
+      font =await fontLoader.loadAsync(fontName)
     }
 
     fontMap[fontName] = font;
