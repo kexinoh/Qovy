@@ -8,6 +8,7 @@
       在线字体转换工具https://gero3.github.io/facetype.js/
       请在这里面将ttf功能转换为json格式。
 - [ ] 新增直接导出MP4功能。
+      由于chorme不支持导出mp4，该计划搁浅。
 - [ ] 新增PPT类函数。
 
 其他功能请通过issue反馈。
